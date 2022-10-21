@@ -127,8 +127,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: stateoftheplanet.org
-    rss_url: https://stateoftheplanet.org/feed
+  - name: 
+    rss_url:
 
 # -----------------------------------------------------------------------------
 # Collections
