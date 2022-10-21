@@ -86,7 +86,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
-spotify_id: lookstoomuchlike # your spotify id
+spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
@@ -94,7 +94,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Email!
+  dporter@ldeo.columbia.edu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -110,9 +110,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Ice-interactions # blog_name will be displayed in your blog page
+blog_nav_title: II Blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: Updates from our Projects
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -127,8 +127,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  - name: stateoftheplanet.org
+    rss_url: https://stateoftheplanet.org/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -230,10 +230,10 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Porter]
+  first_name: [David, F.]
 
-  style: apa
+  style: MLA
   locale: en
 
   source: /_bibliography/
