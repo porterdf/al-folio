@@ -16,9 +16,7 @@ children:
     - title: divider
     - title: CV
       permalink: /cv/
----
 
----
 layout: page
 title: Teaching
 nav: true
