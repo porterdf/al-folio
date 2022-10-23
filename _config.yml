@@ -234,7 +234,7 @@ scholar:
   last_name: [Porter]
   first_name: [David, F.]
 
-  style: mla
+  style: apa
   locale: en
 
   source: /_bibliography/
