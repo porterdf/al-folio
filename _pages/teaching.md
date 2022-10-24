@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses
 nav: false
 nav_order: 2
 ---
@@ -22,7 +22,7 @@ date: 2022-04-01
 location: "New York, USA"
 --- -->
 
-<br/><img src='/images/PolarWarmingOption2.jpg'><br/>
+<br/><img src='/assets/img/PolarWarmingOption2.jpg'><br/>
 
 ## Columbia Climate School - SPRING 2022 PROFESSIONAL LEARNING COURSE
 
