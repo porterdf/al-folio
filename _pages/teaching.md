@@ -47,3 +47,42 @@ This workshop is intended for individuals who are interested in advancing their 
 
 [Sign up here!](https://www.climate.columbia.edu/content/polar-warming-and-ice-sheet-melt-fundamentals-cryosphere-global-changes-and-impacts-coastal)
 
+***
+
+<br/><img src='/images/thumbnail-SIR.png'><br/>
+
+New York Academy of Science (NYAS) Scientist-In-Residence Program
+
+======
+I once again enthusiastically signed up to be a scientist-in-residence (SIR) for the 2020/2021 school year, this time with I.S. 254 in Fordham (Bronx)! I'm super excited to be working with my host teacher this year, Lanipse Rosario, a bright, energetic, and super motivational teacher who is committed to infusing real-world STEM into her 6th grade science classes!
+
+See this map for all of the 2020/21 SIR school sites - impressive!
+<iframe src="https://www.google.com/maps/d/embed?mid=1ddLCCYrUwvsTns1DDzoKR_6EVWn6Dpej" width="640" height="480"></iframe>
+
+The Project
+======
+In develepment with Lanipse!
+
+***
+
+In the summer of 2020, LDEO help a virtual NSF Research Experience for Undergraduate (REU) program.  I had the immense pleasure of mentoring two dynamic and talented undergraduate students - Isaiah Quattlebaum from SUNY-Orange and Justin Sankey from Sarah Lawrence University.   
+
+***
+
+
+<iframe src="https://player.vimeo.com/video/427851639" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/427851639">Greenland Tide Gauge Demo</a> from <a href="https://vimeo.com/user113790395">David Porter</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+New York Academy of Science (NYAS) Scientist-In-Residence Program
+======
+During the 2019/2020 school year, I was was the scientist-in-residence (SIR) for the NEST+M school in New York City.  My host teachers were Stephen Kos and Karol Petrashock at NEST+M (New Explorations in Science, Technology, and Math), co-teachers of five 7th grade science classes.
+
+The Project
+======
+Over the course of the school year, we explored the common questions around Earth science, mainly, "How do climate scientists ask questions, make observations, analyze data, and communicate results?". THrough numerous in-person visits (and virtually following COVID-19 restrictions in April 2020) following along as I
+
+
+***
+
+In the fall of 2017, I taught a Data Analysis course for recent particpants of the Secondary School Field Research Program (SSFRP) at Columbia University in NYC. Along with SSFRP director Bob Newton, we held weekly after-school classes for up to 20 self-motivated students with interest in extending data and scientific skills acquired throughout the previous summer.
+

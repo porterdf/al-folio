@@ -4,7 +4,7 @@ title: Greenland Rising / Kalaallit Nunaat Qaffappoq
 description: NSF-NNA
 img: assets/img/prof_pic.png
 importance: 1
-category: NNA
+category: research
 ---
 
 <br/><img src='/assets/img/Nuuk - 2010, January - 1 of 7.png'><br/>

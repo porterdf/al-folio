@@ -5,7 +5,7 @@ permalink: /projects/
 description: Ice-Interaction Projects
 nav: true
 nav_order: 2
-display_categories: [work]
+display_categories: [research, outreach]
 horizontal: false
 ---
 
