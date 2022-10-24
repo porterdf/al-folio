@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='www.ldeo.columbia.edu'>LDEO - Columbia Univeristy</a>. 61 Rt. 9W, Palisades, NY 10964
+subtitle: <a href='www.ldeo.columbia.edu'>LDEO</a> - Columbia Univeristy. 61 Rt. 9W, Palisades, NY 10964
 
 profile:
-  align: center
-  image: header-bg.jpg
+  align: right
+  image: IMG_3583.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Oceanography 109B</p>
