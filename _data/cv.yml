@@ -1,22 +1,19 @@
----
-Download a comprehensive PDF [here](/assets/pdf/cv.pdf).
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: David Porter
+    # - name: Date of Birth
+    #   value: 14th March 1879
+    # - name: Languages
+    #   value: English, German
 
-# - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Albert Einstein
-#     - name: Date of Birth
-#       value: 14th March 1879
-#     - name: Languages
-#       value: English, German
-
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1905
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Colorado, Boulder
+      year: 2011
 #       description:
 #         - Description 1.
 #         - Description 2.
@@ -31,19 +28,20 @@ Download a comprehensive PDF [here](/assets/pdf/cv.pdf).
 #         - Description 1.
 #         - Description 2.
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
+- title: Experience
+  type: time_table
+  contents:
+    - title: Associate Research Scientist
+      institution: LDEO - Columbia University
+      year: 2015 - present
+      description:
+        - Ice-ocean interactions
+        - Polar Meteorology
+        - High-latitude Sea Level Change
+        - title: Aerogeophysics
+          contents:
+            - Airborne Gravity (development, acquisition, processing, Inversions)
+            - IcePod on NYANG 109th LC-130, BAS TwinOtters, NASA DC-8, P3, G5, ...
 #     - title: Visiting Professor
 #       institution: California Institute of Technology, Pasadena, California, US
 #       year: 1933
